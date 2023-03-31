@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "650691839014",
+    "project_id": "maps-53b57",
+    "storage_bucket": "maps-53b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650691839014:android:99ade7f55827f2b66912e7",
+        "android_client_info": {
+          "package_name": "com.allenkileo.leakage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650691839014-c8re1eguv52on0c3lm25ad875icfo88p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allenkileo.leakage",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "650691839014-75d4kk69rketdf058sru56bhhjtcj167.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfzcFqeBCBP95vlrFNDTI9LBrmKrdBkYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650691839014-75d4kk69rketdf058sru56bhhjtcj167.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650691839014-ijo77auur807s4p1illil98kstk5elrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allenkileo.leakage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+package com.allenkileo.leakage
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
